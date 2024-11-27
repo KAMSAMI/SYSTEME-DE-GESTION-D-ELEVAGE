@@ -1,0 +1,3 @@
+Type: chien, Nom: bouc, Date de Naissance: 2000-09-09, Poids: 67kg, Sante: Bon, Reproduction: Oui, Nombre de Jeunes: 6
+Type: ii, Nom: uu, Date de Naissance: 2024-12-12, Poids: 66kg, Sante: Mal, Reproduction: Non, Nombre de Jeunes: 23
+Type: poulet, Nom: tetu, Date de Naissance: 2024-12-23, Poids: 34kg, Sante: Bon, Reproduction: Non, Nombre de Jeunes: 23

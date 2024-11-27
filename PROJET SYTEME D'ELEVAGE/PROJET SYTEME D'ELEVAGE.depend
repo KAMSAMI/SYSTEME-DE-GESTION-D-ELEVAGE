@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1732703096 source:c:\users\kams2\projet syteme d'elevage\main.cpp
+	<iostream>
+	"Elevage.h"
+	<limits>
+
+1732606731 c:\users\kams2\projet syteme d'elevage\include\elevage.h
+	<vector>
+	<string>
+	"Animal.h"
+
+1732606731 c:\users\kams2\projet syteme d'elevage\include\animal.h
+	<string>
+
+1732703311 source:c:\users\kams2\projet syteme d'elevage\src\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1732608241 source:c:\users\kams2\projet syteme d'elevage\src\elevage.cpp
+	"Elevage.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+

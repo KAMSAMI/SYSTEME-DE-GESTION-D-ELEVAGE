@@ -1,0 +1,8 @@
+Membres du Groupe :
+• YAMEOGO CALEB
+• KAM SAMI HANNIEL FREDERIC
+• BANAON YASSER POUBOULE
+
+Enoncer du projet :
+
+Système de Gestion d'un Élevage d'Animaux Ajouter un animal à l'élevage avec type (ex. vache, poule), nom, date de naissance, et poids. Mettre à jour les informations d'un animal (poids, santé, reproduction). Suivre la reproduction et la portée des animaux. Rechercher des animaux par type ou nom. Générer un rapport du nombre d'animaux par type Sauvegarder et charger les données de l'élevage dans un fichier.
